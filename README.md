@@ -6,7 +6,7 @@
 1. [Introduction](#introduction)
 2. [Data Collection and Preprocessing](#data-collection-and-preprocessing)
 3. [Feature Engineering](#feature-engineering)
-4. [Methods](#methods) [Orange-Workflows folder](https://github.com/arun98aol/prediciting-employee-turnover/tree/main/orange-workflows)
+4. [Methods](#methods) ([Orange-Workflows folder](https://github.com/arun98aol/prediciting-employee-turnover/tree/main/orange-workflows))
 5. [Final Model Selection](#final-model-selection)
 6. [Evaluation Metrics](#evaluation-metrics)
 7. [Conclusion](#conclusion)
