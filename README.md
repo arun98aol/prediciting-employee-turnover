@@ -25,7 +25,7 @@ We collected a dataset of 14,999 observations with 8 features from Kaggle. The d
 
 Features include self-reported employee satisfaction, project count, average monthly hours, tenure, work accident history, promotions, department, and salary. The target variable is employee churn (left job or stayed).
 
-## Methods
+## Methods [orange-workflows](https://github.com/arun98aol/prediciting-employee-turnover/tree/main/orange-workflows)
 
 Several machine learning models were explored: Logistic Regression, KNN, Single Decision Tree, Random Forest, Gradient Boosting, Neural Networks, and SVM. Random Forest emerged as the best-performing model based on AUC.
 
