@@ -43,4 +43,4 @@ This project demonstrates the efficacy of using machine learning to predict empl
 
 ---
 
-_For detailed figures, tables, and full content, please refer to the complete report._
+_For detailed figures, tables, and full content, please refer to the complete [report](https://github.com/arun98aol/prediciting-employee-turnover/blob/main/Employee_Churn_Report.pdf)._
