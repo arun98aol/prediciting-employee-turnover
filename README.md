@@ -1,10 +1,4 @@
-# Data Science Final Project Report
-
 ## Predicting Employee Turnover with Machine Learning
-
-**Authors:** Arun Ganapathy, Skyler Schneekloth, Cynthia I Ibeawuchi, Jacqlyn Caspers  
-**Date:** April 22nd, 2023
-
 ---
 
 ## Table of Contents
