@@ -16,8 +16,6 @@
 5. [Final Model Selection](#final-model-selection)
 6. [Evaluation Metrics](#evaluation-metrics)
 7. [Conclusion](#conclusion)
-8. [References](#references)
-9. [Appendix](#appendix)
 
 ---
 
